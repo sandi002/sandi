@@ -1,0 +1,20 @@
+Nama : Sandi
+Kelas : IF22 E
+NIM : 22416255201205
+
+*SOAL NOMOR 1
+Secara sederhana, Framework dalam pengembangan aplikasi seperti kerangka kerja yang sudah disiapkan untuk membantu pembangunan. Bayangkan seperti fondasi dan struktur dasar sebuah rumah yang telah ada, sehingga pengembang hanya perlu membangun bagian-bagian tambahan yang spesifik tanpa harus membuat semuanya dari awal. Ini membantu mempercepat proses pengembangan dan memastikan konsistensi dalam proyek.
+
+
+*SOAL NOMOR 2
+1. Sebutkan Tema proyek yang sedang digarap : Laundy
+2. Sebutkan anggota dari proyek yang sedang di garap, 
+   berikut dengan jobdesk dari masing masing anggota:
+   1.Sena sopian yogaswara / 22416255201258 : Dokumentasi dan Laporan
+   2. Sandi / 22416255201205 : Programmer
+   3. M.Dafa Ramdhani / 22416255201121 : Desain UI / UML
+
+3. Jelaskan Permasalahan yang di dapat setelah hasil wawancara dengan client,
+   beserta hipotesa solusi yang kalian usung! :
+   • Permasalahan dari kasus kami adalah rata-rata customer yang mencuci di londy yang kami wawancarai itu banyak nya orang yang tidak memiliki akun email ( ibu-ibu)
+   • Solusi dari kami adalah membuat aplikasi ini agar lebih mudah dipakai semua kalangan contohnya dari segi login karna kebanyakan dari customer tidak memiliki email kita buat login itu menggunakan user name dan password saja.
