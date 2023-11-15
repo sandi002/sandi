@@ -3,12 +3,11 @@
 $DBHOST = 'localhost';
 $DBUSER = 'root';
 $DBPASSWORD = '';
-$DBNAME = 'pemweb-db';
+$DBNAME = 'pemrograman_web';
 
 
-$db_connect = mysqli_connect($DBHOST,$DBUSER,$DBPASSWORD,$DBNAME);
+$db_connect = mysqli_connect($DBHOST, $DBUSER, $DBPASSWORD, $DBNAME);
 
-if(mysqli_connect_errno()){
-    echo "failed connect to mysql ".mysqli_connect_error(); 
+if (mysqli_connect_errno()) {
+    echo "failed connect to mysql " . mysqli_connect_error();
 }
-
